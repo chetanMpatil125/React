@@ -1,0 +1,88 @@
+TomTom Odessa
+
+
+ Odessa
+
+
+solaris
+
+BQ2302A90001
+Search
+
+ODS Status
+Pending Jobs
+Completed jobs
+JSAM
+
+
+
+
+
+
+status.xml
+content.xml (download)
+
+Mounts
+ID	Type	CID	Total	Available	Used	Reserved
+0	internal		7.3 GB	5.9 GB	1.4 GB	-
+Settings
+Key	Value
+MUID (serial number)	BQ2302A90001
+Hardware version	lausanne
+Bootloader version	865401
+version_rescueroot	991270
+version_touchscreen_firmware	
+Navcore version	12.075.3065980.84-2300
+Device name	TomTom Start
+Device type	Via
+Active map	04000000-1111-2222-3333-449669657317 [http://id.tomtom.com/map/chile/nav3/1035.9669/08/15/2019]
+colorscheme_day	DayTraffic
+colorscheme_night	NightTraffic
+fuel_type	0
+fuel_lastupdate	0
+voice_current	5e0fea5a-b4b9-4dca-9e94-e325d666727f
+Account user name	
+nav_guilanguage	0
+nav_temperatureunits	0
+nav_distanceunits	0
+nav_pressureunits	0
+nav_timeformat	1
+nav_safetylock	0
+nav_musicspeaker	0
+nav_voicespeaker	2
+nav_bluetoothenabled	0
+nav_keyboardcharactermode	1
+nav_keyboardtype	1
+nav_keyboardsize	1
+nav_lefthandoperated	0
+nav_vehiclebrand	
+nav_vehiclemodel	
+nav_vehicleoptions	
+nav_vehicleidentification	
+nav_productshortname	Lausanne_4096
+Product URL	www.tomtom.com
+nav_voicemute	0
+nav_mapview	2
+nav_mapvehiclesymbol	
+nav_linknightview	2
+nav_turnoffwhenexternalpowerlost	1
+Map Share: trust level	-1
+Map Share: protocol version	3
+Map Share: supported patch types	59
+Map Share: map id	140844952
+Map Share: map release id	0
+Map Share: patch format	104
+Map Share: patch level	0
+Active map mount	0
+First use date	2010-05-02 05:30:00
+Image type	['LanzhouPremium4_nonconnected_8192', 'LanzhouPremium5_nonconnected_8192', 'Lausanne4_nonconnected_8192_noBT', 'Lausanne5_nonconnected_8192_noBT']-12.036.1005017.84-2013.8gb-7.RELMGT.7509.Lanzhou_EUROPE_(UK-IE-FR-IT-CH)_8GB.EXT3
+Ramdisk version	3065980
+First connect date	2019-12-02 11:48:30
+Packages
+Mount	Package ID	Cert.	URI	Version	Release Date
+0	e3e62d84-70b2-4d4c-af17-e5db51fd59d9 	 show 	http://id.tomtom.com/poi/safetycamera/croatia/premium	118867	01/03/2019
+0	8e5bf971-499d-432c-b8ae-95f19a10d50a 	 show 			
+0	cc8e7ced-c1f7-4cd6-b799-2495c3e527d8 	 show 	http://id.tomtom.com/poi/safetycamera/serbia/premium	118875	01/03/2019
+0	aafb86b7-0ab1-4ed7-bd17-8e8f1548ffbf 	 show 	http://id.tomtom.com/voice/MrT	1	05/20/2011
+0	07a22dea-a551-4b43-8faa-8dbe04ae7175 	 show 			
+0	e90fd034-948f-4e38-912c-afd94350f927 	 show 			
